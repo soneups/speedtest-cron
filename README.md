@@ -1,7 +1,7 @@
 # speedtest-cron
 This application will run speedtest-cli against speedtest.net's servers using cron. It will then email the results daily and weekly.
 
-Also - using http://www.percheron-electronics.uk/shop/ e-paper hat - you can utilize the buttons to run the speed-test maually and display the results to the screen.
+Also - using http://www.percheron-electronics.uk/shop/ e-paper hat - you can utilize the buttons to run the speed-test manually and display the results to the screen.
 
 To use the device you will need a few bits installted to your Raspberry Pi. You can see the full list below, but if you just want to get started, see the simple instruction below:
 
